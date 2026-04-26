@@ -16,6 +16,17 @@ CS Major intention breakdown:
   Yes - Minor: 18
   Yes - BA: 12
 
+<img src="/ex09web/static/imgs/ratings.png"
+     alt="How interested students feel about connecting CS"
+     width="500"/>
+
+<img src="/ex09web/static/imgs/meanattitude.png"
+     alt="How majors differ in ratings"
+     width="500"/>
+
+<img src="/ex09web/static/imgs/graph2.png"
+     alt="Non-CS Majors connections"
+     width="500"/>
 ## Conclusion
 
 We found that non cs major students' interest in CS in other fields was greater than or equal to  CS majors across levels 4-7. While that is expected, because CS major students would be more likely to be interested in CS alone, the high level of engagement provides an initial promise for demand for our videos. There are also moderately significant proportions of students with little to no interest in connecting to other fields, but that is to be expected. We have no expectation of every student watching the videos, as well as if they are of high quality, word of mouth could spread interest. 
