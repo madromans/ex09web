@@ -18,15 +18,15 @@ CS Major intention breakdown:
   Yes - Minor: 18
   Yes - BA: 12
 
-<img src="/ex09web/static/imgs/ratings.png"
+<img src="/ex09web/static/imgs/means.png"
      alt="How interested students feel about connecting CS"
      width="500"/>
 
-<img src="/ex09web/static/imgs/meanattitude.png"
+<img src="/ex09web/static/imgs/ratings.png"
      alt="How majors differ in ratings"
      width="500"/>
 
-<img src="/ex09web/static/imgs/graph2.png"
+<img src="/ex09web/static/imgs/output.png"
      alt="Non-CS Majors connections"
      width="500"/>
 ## Conclusion
