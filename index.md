@@ -5,8 +5,7 @@ layout: default
 
 Connecting Computer Science to the World!
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+
 
 ## Analysis
 
@@ -24,7 +23,7 @@ CS Major intention breakdown:
      alt="How majors differ in ratings"
      width="500"/>
 
-<img src="/ex09web/static/imgs/graph2.png"
+<img src="/ex09web/static/imgs/distribution.png"
      alt="Non-CS Majors connections"
      width="500"/>
 ## Conclusion
